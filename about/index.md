@@ -15,7 +15,7 @@ Sometimes I write software. I really like TypeScript, Rust, and Go. When I'm not
 Here's where you can ~~harass~~ find me online:
 
 - Email: me at tylerchambers dot net
-- Twitter: [@nottylerchamb](https://twitter.com/notttylerchamb)
+- Twitter: [@nottylerchamb](https://twitter.com/nottylerchamb)
 - Github: [@tylerchambers](https://github.com/tylerchambers)
 
 Are you an anonymous benefactor looking to send me money?
