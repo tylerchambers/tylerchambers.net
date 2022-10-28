@@ -8,15 +8,7 @@ eleventyNavigation:
 You've found the personal website and blog of Tyler Chambers.
 <br>
 Make yourself at home. Click some links. Enjoy.
-<div class="warning" style="margin-top: 20px;">
-  <h2> Disclaimer </h2>
-    <ul>
-    <li> Nothing here is financial, legal, or medical advice. </li>
-    <li> I hold no licenses or accreditations, and am generally not that smart of a guy. </li>
-    <li>Following the advice listed on this website could lead to a significant loss of data or funds.</li>
-    </ul>
-    <strong>Read at your own risk.</strong>
-</div>
+
 {% set maxPosts = collections.posts.length | min(5) %}
 <h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
 
