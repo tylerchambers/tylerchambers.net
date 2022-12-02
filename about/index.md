@@ -8,20 +8,12 @@ eleventyNavigation:
   order: 2
 ---
 
-I'm Tyler Chambers.
+Bitcoin, Ethereum.
 
-I spend a lot of time thinking about distributed systems, security, and making software fast.
+Rust, TypeScript, Go.
 
-I work on bitcoin for a living, but am very interested in the web3 and cryptocurrency space as a whole.
-
-I really like TypeScript, Rust, and Go.
-
-When I'm not writing software, I'm hanging out with my dog or sleeping.
-
-Here's where you can find me online:
 
 - Email: me at tylerchambers dot net
-- Twitter: [@tylerxchambers](https://twitter.com/tylerxchambers)
 - Github: [@tylerchambers](https://github.com/tylerchambers)
 
 Are you an anonymous benefactor looking to send me money?
