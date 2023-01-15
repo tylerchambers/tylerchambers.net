@@ -25,13 +25,13 @@ This way, individuals looking to send you sats can generate a unique address usi
 
 Here are the problems with that approach:
 
-## On Chain Doxxing
+## On Chain Doxxing.
 
-If you are using BIP 47 entirely on-chain with a notification address, there is now forever an on-chain record of two parties cooperating to pay each other. Unless great care is taken by the sender and receiver to not doxx themselves with toxic change from the BIP-47 notification transaction, it forever becomes visible that you and the payee are connected somehow. While future transactions and their amounts aren't visible, this metadata makes it possible to build a social graph
+If you are using BIP 47 entirely on-chain with a notification address, there is now forever an on-chain record of two parties cooperating to pay each other. Unless great care is taken by the sender and receiver to not doxx themselves with toxic change from the BIP-47 notification transaction, it forever becomes visible that you and the payee are connected somehow. While future transactions and their amounts aren't visible, this metadata makes it possible to build a social graph.
 
-## Sharing is hard
+## Sharing is hard.
 
-You have to share your payment code. How do you do that securely? Signal? OTP over Tor? You can't just post it online (especially without PGP signing) because verifying who owns it is impossible. 
+You have to share your payment code. How do you do that securely? Signal? OTP over Tor? You can't just post it online (especially without PGP signing) because verifying who owns it is impossible.
 
 Most commonly, payment codes are linked to a samurai PayNym. Even if you use Tor to register, you're still giving Samurai sever operators a significant identifiable for your payment code, and now they can see and log the individuals who search for your Nym (I'm not saying they do this, but they can).
 
